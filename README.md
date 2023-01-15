@@ -1,2 +1,2 @@
-# Portfolio
-My Data Science Portfolio
+# CardioGoodFitness
+This is a small project to practice R code.
